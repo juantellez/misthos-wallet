@@ -2898,10 +2898,10 @@ bs-css@8.0.0:
   dependencies:
     emotion "^9.2.12"
 
-bs-fetch@0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/bs-fetch/-/bs-fetch-0.3.1.tgz#9c7d074b27e6bb2b9f2ec985964f32bcac49f79e"
-  integrity sha512-MxwnuuXPldXnoCtlpeN5JNbbmb1tVgsqpLfVunvuMLAIQNyP0TqoImHiQRTz38PBSN8/iX+2yVlm+PFJfnHHiA==
+bs-fetch@0.5.1:
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/bs-fetch/-/bs-fetch-0.5.1.tgz#5dc63c2d92a30a702c5d9fc7ac875199dc42b01e"
+  integrity sha512-Pqmj4fwm9vyWHF1XjkrAYz0O0DJ1vlOpVVJLhW49FSBqbnUCFZq27l/1DToSb+VMaTv0F7gAlrIKTeuIC01yWg==
 
 bs-platform@5.0.6:
   version "5.0.6"
